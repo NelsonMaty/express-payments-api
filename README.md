@@ -5,14 +5,14 @@ This is a simple Express.js API for managing payments. It provides endpoints for
 ## Setup
 
 1. Clone this repository
-```
-git clone git@github.com:NelsonMaty/express-payments-api.git
-```
-3. Install dependencies:
+   ```
+   git clone git@github.com:NelsonMaty/express-payments-api.git
+   ```
+2. Install dependencies:
    ```
    npm install
    ```
-4. Start the server:
+3. Start the server:
    ```
    npm start
    ```
