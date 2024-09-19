@@ -1,4 +1,4 @@
-# Express Payments API
+# Payments API
 
 This is a simple Express.js API for managing payments. It provides endpoints for listing payments with pagination and date filtering capabilities.
 
